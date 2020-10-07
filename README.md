@@ -3,4 +3,4 @@
 Web App to recognize the vehicle licence plate using [platerecognizer](https://platerecognizer.com/) API
 
 
-## WIP
+##### Ignore the BLOG app (just for framework learning :relaxed:)
